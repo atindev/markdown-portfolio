@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Lazy
+2. Sleeping
+3. Driving
